@@ -17,7 +17,7 @@ Dans la pédagogie par problème (PBL, ou APP en français), la généralisation
 | **Démarche Qualité** | Intégrer une méthode d’assurance qualité lors d’un projet ou de la MCO d’une solution | Plan d’assurance qualité, procédures qualité |
 | **Sélection** | Choisir une solution (technique ou non) à partir de différents critères, définir des critères de mesure | Grille de choix, critères de sélection, métrologie |
 | **Qualification** | S’assurer de la viabilité d’une solution, de son adéquation avec un besoin fonctionnel ou technique | Stratégie de test, UAT, PV de recette |
-
+| **Ideation** | Rechercher toutes les idées imaginables en relation avec un problème | Rapport de Brainstorming, Mindmapping |
 ## Variantes
 
 Ces grandes généralisations trouvent souvent des représentations plus concrètes. Voici une liste non exhaustive :
